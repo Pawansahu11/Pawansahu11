@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawansahu11
 - 👀 I’m interested in FrontEnd Development...
-- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript, TypeScript, AngulerJs, IonicFramwork .
+- 🌱 I’m currently learning and working with HTML, CSS, SCSS, JavaScript, TypeScript, AngulerJs, IonicFramwork, and ReactNative.
 - 💞️ I’m looking to collaborate on the FrontEnd Developer role.
 - 📫 How to reach me-
      Email: pawansahu@gmail.com
